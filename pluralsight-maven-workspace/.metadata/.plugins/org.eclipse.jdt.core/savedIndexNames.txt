@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Fernando\Java\pluralsight-maven-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2380175872.index
+2103231971.index
+3274311780.index
